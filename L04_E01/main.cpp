@@ -3,6 +3,10 @@
 #include <vector>
 #include <algorithm>
 
+/* MissingInteger
+ * Lesson 4 - Ex 1
+ */
+
 using namespace std;
 
 int solution( vector<int>& A )

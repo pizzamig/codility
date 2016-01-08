@@ -4,6 +4,10 @@
 
 using namespace std;
 
+/* MaxCounters
+ * L4 - Ex 4
+ */
+
 vector<int> solution(int N, vector<int> &A )
 {
   vector<int> c(N,0);

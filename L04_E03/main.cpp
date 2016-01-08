@@ -4,6 +4,10 @@
 
 using namespace std;
 
+/* PermCheck
+ * Lesson 4 - Ex 3
+ */
+
 int solution( vector<int>& A )
 {
   int X=A.size();

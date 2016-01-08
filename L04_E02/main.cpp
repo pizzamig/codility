@@ -4,6 +4,9 @@
 
 using namespace std;
 
+/* FrogRiverOne
+ * Lesson 4 - Ex 2
+ */
 int solution( int X, vector<int>& A )
 {
   vector<int> c(X,0);
