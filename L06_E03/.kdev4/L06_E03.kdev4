@@ -1,0 +1,44 @@
+[Buildset]
+BuildItems=@Variant(\x00\x00\x00\t\x00\x00\x00\x00\x01\x00\x00\x00\x0b\x00\x00\x00\x00\x01\x00\x00\x00\x0e\x00L\x000\x006\x00_\x00E\x000\x003)
+
+[CMake]
+Build Directory Count=1
+Current Build Directory Index=0
+ProjectRootRelative=./
+
+[CMake][CMake Build Directory 0]
+Build Directory Path=file:///home/pizzamig/work/codility/L06_E03/build
+Build Type=Debug
+CMake Binary=file:///usr/local/bin/cmake
+Environment Profile=
+Extra Arguments=
+Install Directory=file:///home/pizzamig/work/codility/L06_E03
+
+[Defines And Includes][Compiler]
+Name=GCC
+Path=gcc
+Type=GCC
+
+[Launch]
+Launch Configurations=Launch Configuration 0
+
+[Launch][Launch Configuration 0]
+Configured Launch Modes=execute
+Configured Launchers=nativeAppLauncher
+Name=l06_e03
+Type=Native Application
+
+[Launch][Launch Configuration 0][Data]
+Arguments=
+Dependencies=@Variant(\x00\x00\x00\t\x00\x00\x00\x00\x01\x00\x00\x00\x0b\x00\x00\x00\x00\x02\x00\x00\x00\x0e\x00L\x000\x006\x00_\x00E\x000\x003\x00\x00\x00\x0e\x00l\x000\x006\x00_\x00e\x000\x003)
+Dependency Action=Build
+EnvironmentGroup=
+Executable=file:///home/pizzamig/work/codility/L06_E03/
+External Terminal=konsole --noclose --workdir %workdir -e %exe
+Project Target=L06_E03,l06_e03
+Use External Terminal=false
+Working Directory=
+isExecutable=false
+
+[Project]
+VersionControlSupport=kdevgit
