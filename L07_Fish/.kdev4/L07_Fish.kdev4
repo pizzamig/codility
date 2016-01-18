@@ -1,0 +1,45 @@
+[Buildset]
+BuildItems=@Variant(\x00\x00\x00\t\x00\x00\x00\x00\x01\x00\x00\x00\x0b\x00\x00\x00\x00\x01\x00\x00\x00\x10\x00L\x000\x007\x00_\x00F\x00i\x00s\x00h)
+
+[CMake]
+Build Directory Count=1
+Current Build Directory Index=0
+ProjectRootRelative=./
+
+[CMake][CMake Build Directory 0]
+Build Directory Path=file:///home/pizzamig/work/codility/L07_Fish/build
+Build Type=Debug
+CMake Binary=file:///usr/local/bin/cmake
+Environment Profile=
+Extra Arguments=
+Install Directory=file:///home/pizzamig/work/codility/L07_Fish/
+
+[Defines And Includes][Compiler]
+Name=GCC
+Path=gcc
+Type=GCC
+
+[Launch]
+Launch Configurations=Launch Configuration 0
+
+[Launch][Launch Configuration 0]
+Configured Launch Modes=execute
+Configured Launchers=nativeAppLauncher
+Name=l07_fish
+Type=Native Application
+
+[Launch][Launch Configuration 0][Data]
+Debugger Shell=
+Dependencies=@Variant(\x00\x00\x00\t\x00\x00\x00\x00\x01\x00\x00\x00\x0b\x00\x00\x00\x00\x02\x00\x00\x00\x10\x00L\x000\x007\x00_\x00F\x00i\x00s\x00h\x00\x00\x00\x10\x00l\x000\x007\x00_\x00f\x00i\x00s\x00h)
+Dependency Action=Build
+Display Demangle Names=true
+Display Static Members=false
+GDB Path=file:///usr/local/bin/gdb/
+Project Target=L07_Fish,l07_fish
+Remote GDB Config Script=
+Remote GDB Run Script=
+Remote GDB Shell Script=
+Start With=ApplicationOutput
+
+[Project]
+VersionControlSupport=kdevgit
