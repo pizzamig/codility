@@ -1,0 +1,45 @@
+[Buildset]
+BuildItems=@Variant(\x00\x00\x00\t\x00\x00\x00\x00\x01\x00\x00\x00\x0b\x00\x00\x00\x00\x01\x00\x00\x00\x1e\x00L\x000\x009\x00_\x00M\x00a\x00x\x00S\x00l\x00i\x00c\x00e\x00S\x00u\x00m)
+
+[CMake]
+Build Directory Count=1
+Current Build Directory Index=0
+ProjectRootRelative=./
+
+[CMake][CMake Build Directory 0]
+Build Directory Path=file:///home/pizzamig/work/codility/L09_MaxSliceSum/build
+Build Type=Debug
+CMake Binary=file:///usr/local/bin/cmake
+Environment Profile=
+Extra Arguments=
+Install Directory=file:///home/pizzamig/work/codility/L09_MaxSliceSum
+
+[Defines And Includes][Compiler]
+Name=GCC
+Path=gcc
+Type=GCC
+
+[Launch]
+Launch Configurations=Launch Configuration 0
+
+[Launch][Launch Configuration 0]
+Configured Launch Modes=execute
+Configured Launchers=nativeAppLauncher
+Name=l09_maxslicesum
+Type=Native Application
+
+[Launch][Launch Configuration 0][Data]
+Debugger Shell=
+Dependencies=@Variant(\x00\x00\x00\t\x00\x00\x00\x00\x01\x00\x00\x00\x0b\x00\x00\x00\x00\x02\x00\x00\x00\x1e\x00L\x000\x009\x00_\x00M\x00a\x00x\x00S\x00l\x00i\x00c\x00e\x00S\x00u\x00m\x00\x00\x00\x1e\x00l\x000\x009\x00_\x00m\x00a\x00x\x00s\x00l\x00i\x00c\x00e\x00s\x00u\x00m)
+Dependency Action=Build
+Display Demangle Names=true
+Display Static Members=false
+GDB Path=file:///usr/local/bin/gdb
+Project Target=L09_MaxSliceSum,l09_maxslicesum
+Remote GDB Config Script=
+Remote GDB Run Script=
+Remote GDB Shell Script=
+Start With=ApplicationOutput
+
+[Project]
+VersionControlSupport=kdevgit
